@@ -1,6 +1,8 @@
 # Plant Disease Detection System for Sustainable Agriculture 🌾🔬
 An advanced AI-powered agricultural technology solution that combines computer vision, satellite monitoring, climate analysis, and intelligent recommendations to help farmers detect plant diseases early and implement sustainable farming practices.
 
+Dataset used: PlantVillage Dataset Download from: https://www.kaggle.com/datasets/emmarex/plantdisease
+
 ## Overview
 The Plant Disease Detection System for Sustainable Agriculture is a comprehensive web application built with Streamlit that leverages cutting-edge technologies including TensorFlow machine learning models, Google Gemini AI, satellite imagery analysis, and multilingual support. The system provides farmers and agricultural professionals with powerful tools for disease detection, yield prediction, treatment planning, and agricultural monitoring.
 
